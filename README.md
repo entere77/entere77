@@ -14,5 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌱 Profile
+> 🎓 Sangmyung University, Department of Intelligent Engineering Informatics for Human(Seoul) (2019.03 ~ )
+
+
+### 👩🏻‍💻 Project & Study
+> [2022 UMC 동아리-3기](https://github.com/entere77/Blu-e-backend) : 멘토, 멘티를 매칭하는 앱
+
+### 👑 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entere77&layout=compact&theme=radical)
+
+### 😄 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=entere77&show_icons=true&theme=radical)

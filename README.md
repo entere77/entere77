@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 
 ### ⚡ Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={entere77})](https://solved.ac/{entere77}/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=entere77)](https://solved.ac/entere77/)

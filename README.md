@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### 👩🏻‍💻 Project & Study
 > [2022 UMC 동아리-3기](https://github.com/entere77/Blu-e-backend) : 멘토, 멘티를 매칭하는 앱
+> [2022 UMC 동아리-4기](https://github.com/entere77/Blu-e-backend) : 가진 재료만으로 만들 수 있는 레시피를 추천하는 앱
 
 ### 👑 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entere77&layout=compact&theme=radical)

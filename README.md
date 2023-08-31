@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 > [2022 UMC 동아리-3기](https://github.com/entere77/Blu-e-backend) : 멘토, 멘티를 매칭하는 앱 <br/>
   [2023 UMC 동아리-4기](https://github.com/entere77/HomeFoodFighter_Server) : 가진 재료만으로 만들 수 있는 레시피를 추천하는 앱 <br/>
 > [CodeUpAlgorithm](https://github.com/entere77/CodeUpAlgorithm) : 코드업(Code Up) 사이트 알고리즘 소스코드 <br/>
-  [Baekjoon](https://github.com/entere77/Baekjoon) : Baekjoon 사이트 알고리즘 소스코드
+  [Baekjoon](https://github.com/entere77/Baekjoon) : Baekjoon 사이트 알고리즘 소스코드 <br/>
 
 ### 👑 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entere77&layout=compact&theme=radical)

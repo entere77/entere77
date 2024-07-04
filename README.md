@@ -1,6 +1,6 @@
 ### Hi I'm Jonghan Kim!  👋
 
-➿ Please see my **[CV]([https://github.com/entere77](https://github.com/entere77/entere77/blob/main/CV.pdf))**   
+➿ Please see my **[CV](https://github.com/entere77/entere77/blob/main/CV.pdf)**   
 
 <!--
 **entere77/entere77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
